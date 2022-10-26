@@ -40,7 +40,7 @@
     "@types/mocha": "^9.1.1",
     "@types/node": "^18.0.6",
     "chai": "^4.3.6",
-    "comment-json": "^4.1.1",
+    "comment-json": "^4.2.3",
     "json-loader": "^0.5.7",
     "mocha": "^10.0.0",
     "ts-loader": "^9.3.1",
